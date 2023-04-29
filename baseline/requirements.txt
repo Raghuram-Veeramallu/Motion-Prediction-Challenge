@@ -1,0 +1,10 @@
+matplotlib==3.6.3
+numpy==1.19.5
+protobuf==3.20.3
+PyYAML==6.0
+PyYAML==6.0
+tensorflow==2.6.0
+torch==1.13.1
+torch_scatter==2.1.0
+tqdm==4.64.1
+waymo_open_dataset_tf_2_6_0==1.4.9

@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__
+*/plots
+*/results
+*/check_pred_script.py
+*/convert_to_tar.py
+*/slurm-*.out
+
